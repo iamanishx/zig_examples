@@ -1,0 +1,32 @@
+# Zig
+zig-cache/
+zig-out/
+*.zig-cache
+
+# Build
+build/
+dist/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test binaries
+test/
+*.test
+
+# Temporary
+*.tmp
+*.log
